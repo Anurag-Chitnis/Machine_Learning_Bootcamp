@@ -29,3 +29,14 @@ This is a Repostiory for daywise works and assignments done during the **45 Days
 - **Day 23**: OpenCV - Face Detection
 - **Day 24**: Intro to Pandas
 - **Day 25**: Pandas Continued (Titanic Data)
+- **Day 26**: Simple Linear Regression and Gradient Descent
+- **Day 27**: Multiple Linear Regression (Working on Boston Data)
+- **Day 28**: Ridge and Lasso Regression
+- **Day 29**: Polynomial Regression
+- **Day 30**: Logistic Regression and KNN Classifier
+- **Day 31**: Support Vector Machine (SVC and SVR)
+- **Day 32**: Decision Tree and Naive Bayes Classifiers
+- **Day 33**: Neural Network - Designing a simple Neuron
+- **Day 34**: Duscission on Neural Netorks and LeNET model [Upload remaining]
+- **Day 35**: Digit Recogniser using Deep Learning (LeNET Model) in Keras [Upload remaining]
+- **Day 36**: Self Driving Car using Deep Learning [Upload remaining]
